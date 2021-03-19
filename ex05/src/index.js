@@ -15,9 +15,7 @@ function myPetsFunction(pets) {
 
     var myPets = myPetsArray[1].name;
 
-    return myPets;
-
-    
+    return myPets;   
 
     // Only change code above this line
 };
